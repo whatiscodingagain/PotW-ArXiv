@@ -1,1 +1,6 @@
+yy/mm/dd: details
+Oct 2026: Problem of the Week established. Thanks to Maths Circle for inspiration of idea!
 
+26/11/14: Added difficulty ratings and categories. Severely decreased difficulty of problems, since that was a widely reported issue.
+
+26/11/21: Archive established. This week's iteration has new features - including colour, leaderboards and points, and the long-awaited inclusion of geometry problems (since I found a good one to add). These are created with tikzpicture, so that they can be zoomed in infinitely. Added a form through which answers and potential questions/feedback can be submitted. This is open to public, but I may not respond.
