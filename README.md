@@ -14,13 +14,15 @@ Just all of the problems of the week, compiled into a neat little repository. Al
 
 For privacy reasons, leaderboards and points (introduced w.e. Nov 20) are **not** committed here.
 
+There's a form to submit your answers through as well - I may open to public too, but that may be in future. (Feel free to use the school email, but your message may get filtered out.)
+
 ## New Features of This Iteration
-Added colors to the otherwise monotonous problems of the week, categories, difficulty ratings and more! Note that the early leaderboards, normally incorporated within the PotWs, will not be included here due to privacy restrictions.
+Added colors to the otherwise monotonous problems of the week, categories, difficulty ratings, a form to submit your answers through, and more! Note that the early leaderboards, normally incorporated within the PotWs, will not be included here due to privacy restrictions.
 
 Geometry questions were previously not included, but now they are - with vector graphs written natively in LaTeX so it looks extra nice and is infinitely zoomable! Have fun with them.
 
 ## Planned Features
-I'm planning to create a website to centralise the leaderboard into something that is available for SPS pupils to see. However, that depends on how major this event gets - hopefully very major!
+I'm planning to create a website to centralise the leaderboard into something that is available for SPS pupils to see, and to also centralise a submission channel. However, that depends on how major this event gets - hopefully very major!
 
 Additionally, I am also planning on adding some other Problems of the Week variants - for example, a Linguistics or Astronomy variant. However, that will have to wait.
 
